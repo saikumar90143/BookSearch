@@ -1,0 +1,14 @@
+.card {
+    max-width: 600px;
+    max-height: 80vh;
+}
+
+.single-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: fill;
+}
+
+.close {
+    cursor: pointer;
+}
